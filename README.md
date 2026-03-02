@@ -1,8 +1,8 @@
-Stock Trading Strategy Automation using Python
+# Stock Trading Strategy Automation using Python
 
 This repository contains a Python-based solution for automating stock trading strategies. It integrates with various APIs to gather stock market data and applies multiple technical indicators to analyze trading opportunities. The system is customizable and built with flexibility in mind, allowing you to configure multiple trading parameters.
 
-Key Features:
+**Key Features:**
 
 Trading Configuration: A config.py file allows you to easily customize trading parameters, including:
 
@@ -40,7 +40,7 @@ News API: To gather the latest financial news, assisting in sentiment analysis.
 
 Customizable Color Scheme: The script allows you to customize the look and feel of visualizations with a color scheme tailored for dark mode.
 
-Usage:
+**Usage:**
 
 Set up your API keys in the config.py file.
 
@@ -48,4 +48,3 @@ Adjust trading parameters such as risk tolerance, technical indicator settings, 
 
 Run the trading strategy script and begin analyzing stock data with automated trading rules.
 
-This repository is a perfect starting point for those looking to build, test, or refine their algorithmic trading strategies with Python.
